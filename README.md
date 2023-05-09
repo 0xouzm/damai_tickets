@@ -9,6 +9,7 @@
 > 2023.04.27 增加日期选择
 >
 > 2023.05.09 Chrome 版本为: 113.0.5672.64 的对应 ChromeDriver 不需要更改 $cdc_ 标志,无滑动弹窗
+>
 > 2023.05.09 sess,price 设置多个时,可能会出现抛出异常: Message: stale element reference: stale element not found,建议都设置一个值
 
 
